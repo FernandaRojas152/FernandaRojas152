@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **people-database**
 
-- 🌱 I’m currently learning **Python, AI, kotlin**
+- 🌱 I’m currently learning **Python, AI (TensorFlow) , kotlin**
 
 - 👨‍💻 All of my projects are available at [https://github.com/FernandaRojas152](https://github.com/FernandaRojas152)
 
