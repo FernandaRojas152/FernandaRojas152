@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fernanda</h1>
+<h1 align="center">Hi, I'm Fernanda!</h1>
 <h3 align="center">A girl who loves AI and web sites design.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fernandarojas152" alt="fernandarojas152" /></a> </p>
