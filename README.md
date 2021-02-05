@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fernanda</h1>
 <h3 align="center">A girl who loves AI and web sites design.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandarojas152&label=Profile%20views&color=0e75b6&style=flat" alt="fernandarojas152" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fernandarojas152" alt="fernandarojas152" /></a> </p>
 
 - 🔭 I’m currently working on **mobile apps and some projects on C#**
