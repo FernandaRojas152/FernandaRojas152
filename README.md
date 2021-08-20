@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fernandarojas152" alt="fernandarojas152" /></a> </p>
 
-- 🔭 I’m currently working on **mobile apps and some projects on C#**
+- 🔭 I’m currently working on **AI, python, mobile apps**
 
-- 🌱 I’m currently learning **C#, python**
+- 🌱 I’m currently learning **python, kotlin**
 
 - 👨‍💻 All of my projects are available at [https://github.com/FernandaRojas152](https://github.com/FernandaRojas152)
 
-- 💬 Ask me about **literature, code or some games!**
+- 💬 Ask me about **literature, code or some games(aka Genshin Impact, I'm addicted now lol)!**
 
 - 📫 How to reach me **fernandarojas152@hotmail.com**
 
