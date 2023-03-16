@@ -55,11 +55,12 @@
 
 <div style="display: flex;">
   <img align="left" width="500px" src="https://i.pinimg.com/originals/00/52/86/005286582def01eae811a8d2fc64c88f.jpg">
-  <p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandarojas152&show_icons=true&locale=en&layout=compact&theme=radical" alt="fernandarojas152" /></p>
+  <p ><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=fernandarojas152&show_icons=true&locale=en&layout=compact&theme=radical" alt="fernandarojas152" /></p>
+  
 </div>
 <br>
 <div style="display: flex; flex-direction: row;">
-  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=fernandarojas152&show_icons=true&locale=en&theme=radical" alt="fernandarojas152" /></p>
+  <p>&nbsp;<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fernandarojas152&show_icons=true&locale=en&theme=radical" alt="fernandarojas152" /></p>
 
   <div align="top"><img align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=12132750229&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" /></div>
 </div>
